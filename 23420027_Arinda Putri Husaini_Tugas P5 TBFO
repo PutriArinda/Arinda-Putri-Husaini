@@ -1,0 +1,8 @@
+run:
+ Stemmer Kata Indonesia Sederhana 
+---------------------
+Klik Enter Untuk Stemming
+ Masukkan Kata : ciptakan
+----Hasil Stemming----
+ciptakan
+BUILD SUCCESSFUL (total time: 9 seconds)
